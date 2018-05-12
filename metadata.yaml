@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8301
     wikipedia: http://en.wikipedia.org/wiki/H._Beam_Piper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19158#The-Return
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-09-01'
 gutenberg_type: Text
